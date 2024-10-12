@@ -1,0 +1,15 @@
+huggingface_hub==0.22.2
+PyPDF2
+pdfkit
+gradio
+langchain
+langchain-google-genai
+pypdf
+pdfkit
+langchain_community
+chromadb
+IPython
+fpdf
+pypdf2
+unidecode
+
